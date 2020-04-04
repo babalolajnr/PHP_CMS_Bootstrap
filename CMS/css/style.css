@@ -1,0 +1,12 @@
+*{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.FieldInfo{
+    color: rgb(251, 174, 44);
+    font-size: 1.2em;
+}
+.CommentBlock{
+    background-color: rgb(190, 206, 236);
+}
+
+
